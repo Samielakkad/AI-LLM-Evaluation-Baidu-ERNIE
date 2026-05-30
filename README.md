@@ -4,7 +4,7 @@
 
 **Built for [Baidu · 百度](https://www.baidu.com/)** — the ERNIE (文心) Mentor Program.
 
-[![Program](https://img.shields.io/badge/Baidu-ERNIE_Mentor_Program-blue)](https://www.baidu.com/) [![Year](https://img.shields.io/badge/2025-Oct--Dec-orange)](#) [![Award](https://img.shields.io/badge/3rd_Prize-Baidu_Hackathon_2025-yellow)](#)
+[![AI + LLM Evaluation](https://img.shields.io/badge/AI%20%2B-LLM%20Evaluation-8A2BE2)](#) [![Program](https://img.shields.io/badge/Baidu-ERNIE_Mentor_Program-blue)](https://www.baidu.com/) [![Year](https://img.shields.io/badge/2025-Oct--Dec-orange)](#) [![Award](https://img.shields.io/badge/3rd_Prize-Baidu_Hackathon_2025-yellow)](#)
 
 ---
 
