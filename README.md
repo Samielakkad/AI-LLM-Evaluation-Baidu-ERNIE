@@ -80,3 +80,8 @@ CC-BY-4.0 — use the methodology freely, attribute when you cite. Baidu-confide
 ---
 
 **Sami EL AKKAD** · Tsinghua SIGS AI MSc · ex-Baidu ERNIE Mentor (Oct–Dec 2025) · sam25@mails.tsinghua.edu.cn
+
+
+---
+
+**License — All rights reserved.** This repository is shared for review only. Please **contact me before using any part of it** for any purpose. See [LICENSE](LICENSE).
