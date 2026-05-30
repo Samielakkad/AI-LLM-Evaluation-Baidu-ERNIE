@@ -12,7 +12,7 @@
 
 Not Baidu-confidential material. The public-facing **methodology** — prompt design patterns, scoring rubrics, multi-dimensional stress-test categories, and calibration practices — that I developed and refined during the ERNIE Mentor Program. Sanitized, anonymized, and structured so anyone evaluating LLMs in production can reuse the framework.
 
-This is the methodology that informs the [jak.ma eval suite](https://github.com/Samielakkad/jak-ma-eval-suite) — but generalized to any LLM checkpoint, not Darija-specific.
+This is the methodology that informs the [jak.ma eval suite](https://github.com/Samielakkad/ai-llm-evaluation-jakma) — but generalized to any LLM checkpoint, not Darija-specific.
 
 ## What I did in the program
 
@@ -70,7 +70,7 @@ Most LLM evaluation methodology is locked inside companies. The 5-dim rubric, th
 
 ```
 El Akkad, Sami. 2026. "Methodology Notes from the Baidu ERNIE Mentor Program 2025."
-GitHub: https://github.com/Samielakkad/ernie-evaluation-notes
+GitHub: https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie
 ```
 
 ## License
