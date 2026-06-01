@@ -58,10 +58,6 @@ The hardest part of LLM evaluation isn't designing prompts — it's scoring cons
 - **Weekly recalibration meetings.** Reviewers compare scores on a shared "calibration set" weekly. Drift detected → re-anchor.
 - **Confusion matrices, not just averages.** A model with average 3.8 across 100 prompts can have wildly different failure modes than another model at 3.8. Always report the score distribution + categorical confusion matrix.
 
-## Recognition
-
-- **3rd Prize (三等奖) — 2025 Baidu ERNIE Hackathon** (AI Hardware Track, 23 finalists / 900+ teams) — for *RedFOX*, an ERNIE-4.5-powered children's AI hardware device.
-
 ## Why I'm publishing this
 
 Most LLM evaluation methodology is locked inside companies. The 5-dim rubric, the adversarial pair pattern, the cross-language calibration check — these aren't trade secrets. They're discipline. Publishing the discipline lets other teams skip months of "we should have done this from day one."
